@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin@123"
+    }
+  ],
+  "country": [
+    {
+      "id": 1,
+      "name": "India",
+      "population": 3310026519
+    },
+    {
+      "id": 2,
+      "name": "Autralia",
+      "population": 789566699
+    },
+    {
+      "id": 3,
+      "name": "Canada",
+      "population": 37742154
+    },
+    {
+      "id": 4,
+      "name": "USA",
+      "population": 67886011
+    },
+    {
+      "name": "Pakistan",
+      "population": "788888",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "France",
+      "population": "77441255"
+    },
+    {
+      "name": "China",
+      "population": 1425830081,
+      "id": 7
+    },
+    {
+      "name": "Indonesia",
+      "population": 280829472,
+      "id": 8
+    },
+    {
+      "name": "Nigeria",
+      "population": 216375148,
+      "id": 9
+    },
+    {
+      "name": "Brazil",
+      "population": 216375148,
+      "id": 10
+    },
+    {
+      "name": "Bangladesh",
+      "population": 216375148,
+      "id": 11
+    },
+    {
+      "name": "Russia",
+      "population": 146092401,
+      "id": 12
+    },
+    {
+      "name": "Mexico",
+      "population": 132354424,
+      "id": 13
+    },
+    {
+      "name": "Japan",
+      "population": 123294513,
+      "id": 14
+    },
+    {
+      "name": "Iran",
+      "population": 89172767,
+      "id": 15
+    }
+  ]
+}
